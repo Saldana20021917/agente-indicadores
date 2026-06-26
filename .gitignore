@@ -1,0 +1,10 @@
+# Ignorar la carpeta de secretos locales para que no se suba a GitHub
+.streamlit/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar bases de datos locales por si acaso
+*.xlsx
+*.csv
